@@ -6,6 +6,7 @@
 
 /fr/pagedaccueil
 
+--------------------------
 
 /tr/hakkinda
 
@@ -13,6 +14,7 @@
 
 /fr/àpropos
 
+--------------------------
 
 /tr/iletisim
 
